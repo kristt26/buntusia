@@ -1,0 +1,7 @@
+﻿"id","alternatif2","idalt1"
+1,"Perangkat Keras",1
+2,"Perangkat Lunak",1
+3,"Perangkat Jaringan",1
+4,"Pelatihan Laboran",2
+5,"Kursus Mahasiswa",2
+6,"Kursus Dosen",2
